@@ -14,10 +14,12 @@ main {
     justify-content: center;
 }
 
-main div {
-    width: 50%;
+main #div1 {
+    margin-top: 10%;
+    width: 30%;
     background-color: #fff;
     border-radius: 20px;
+    padding: 20px;
 }
 
 form {
